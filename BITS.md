@@ -1,5 +1,3 @@
-# QASM-Basic
-
 # CORRELAÇÕES
 
 ## BITS CLÁSSICOS - PORTA NOT
