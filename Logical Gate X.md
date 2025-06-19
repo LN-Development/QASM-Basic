@@ -20,7 +20,7 @@ ket 1 - Representa o estado energético maior [E1].
 
 ket 0 - Representa fisicamente o menor estado energético de um sistema de dois níveis (Ground State) [E0].
 
-A diferença energética entre os estados é representada por E =E1-E0.
+A diferença energética entre os estados é representada por E = E1 - E0.
 
 | ⟩ - Notação usada para representar estado quântico
 
