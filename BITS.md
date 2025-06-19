@@ -10,6 +10,7 @@ Controlados por portas lógicas elétricas
 A [NOT] Ā - Representação da função, onde a porta lógica NOT exibe o resultado oposto
 
 1 [NOT] 0
+
 0 [NOT] 1
 
 ## BITS QUÂNTICOS - PORTA X
