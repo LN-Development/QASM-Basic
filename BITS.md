@@ -25,7 +25,7 @@ Controlados por portas lógicas quânticas
 
 |A⟩ [X] |Ā⟩ - Representa a variação em Pi Radiano no eixo X
 
-|0⟩[X] |1⟩
+|0⟩ [X] |1⟩
 
-|1⟩[X] |0⟩
+|1⟩ [X] |0⟩
 
