@@ -1,1 +1,1 @@
-# Estudo introdutório sobre linguagens de Computadores Quânticos
+# Estudo Sobre Linguagens Para Computadores Quânticos
