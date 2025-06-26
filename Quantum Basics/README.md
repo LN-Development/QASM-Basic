@@ -1,4 +1,4 @@
-# LINKS PARA ESTUDO
+# LINKS PARA ESTUDO - QISKIT
 
 Qiskit Textbook completo:
 https://qiskit.org/textbook/
