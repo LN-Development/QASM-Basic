@@ -30,8 +30,7 @@ x q1;   //Bit que é iniciado em 0 é invertido pela porta de Pauli X, sendo tra
 //3 declarado em Binário 3 = 11 = |1⟩|1⟩
 
 // Declaração Binária de 2
-//q3 não sofre alteração por já estar no estado correto |0⟩
-x q2;//Bit que é iniciado em 0 é invertido pela porta de Pauli X, sendo transformado para |1⟩ 0->1
+x q3;//Bit que é iniciado em 0 é invertido pela porta de Pauli X, sendo transformado para |1⟩ 0->1
  //Neste caso nada vai ocorrer e o sistema vai ignorar esta informação
 // 2 declarado em Binário 2 = 10 = |1⟩|0⟩
 
